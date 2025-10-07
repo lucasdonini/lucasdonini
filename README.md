@@ -1,4 +1,4 @@
-  I am a developer and High school student. Since 2024, with the goal of creating solutions that change people's lives in some way. I currently focus my studies on C++ and React.js.
+  I am a developer and High school student. Since 2024, with the goal of creating solutions that change peoples' lives in some way. I currently focus my studies on C++ and React.js.
 I like to challenge myself with innovative projects and new learning experiences.
 
 ```cpp
