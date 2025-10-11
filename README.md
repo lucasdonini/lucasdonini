@@ -8,13 +8,13 @@ std::cout << "Welcome to my github!" << std::endl;
 
 
 ## Skills
-<a href="https://github.com/lucasdonini"><img src="https://skillicons.dev/icons?i=html,css,python,java,postgresql,docker,git,figma,github,js,c"></a>
+<a href="https://github.com/lucasdonini"><img src="https://skillicons.dev/icons?i=html,css,python,java,postgresql,docker,git,figma,github,js"></a>
 
 ## Learning
-<a href="https://github.com/lucasdonini"><img src="https://skillicons.dev/icons?i=cpp,ts,react,vue"></a>
+<a href="https://github.com/lucasdonini"><img src="https://skillicons.dev/icons?i=cpp,c,cs,ts,react,vue"></a>
 
 ## Interests
-<a href="https://github.com/lucasdonini"><img src="https://skillicons.dev/icons?i=mongo,cs,kotlin,swift,angular"></a>
+<a href="https://github.com/lucasdonini"><img src="https://skillicons.dev/icons?i=mongo,kotlin,swift,angular"></a>
 </br>
 </br>
 
