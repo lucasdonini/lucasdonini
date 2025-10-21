@@ -11,7 +11,7 @@ Console.WriteLine("Welcome to my github!");
 <a href="https://github.com/lucasdonini"><img src="https://skillicons.dev/icons?i=html,css,python,java,postgresql,docker,git,figma,github,js,cs"></a>
 
 ## Learning
-<a href="https://github.com/lucasdonini"><img src="https://skillicons.dev/icons?i=cpp,c,ts,react,vue"></a>
+<a href="https://github.com/lucasdonini"><img src="https://skillicons.dev/icons?i=cpp,c,ts,react,vue,sh"></a>
 
 ## Interests
 <a href="https://github.com/lucasdonini"><img src="https://skillicons.dev/icons?i=mongo,kotlin,swift,angular"></a>
